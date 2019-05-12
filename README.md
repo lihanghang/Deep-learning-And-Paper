@@ -15,6 +15,8 @@
 - 动手学深度学习  
 - 神经网络与深度学习  
 - 语音与语言处理（第3版）
+- 一份不太简短的LATEX介绍
+- Hands-On+Machine+Learning+with+Scikit-Learn+and+TensorFlow
 ---  
-update:20190509
+update:20190512
 
