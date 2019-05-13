@@ -2,7 +2,13 @@
 #### 研究体悟
 1. 算法是死的，思想是活的。经典反复多次，悟其背后之道，才可唯我所用。  
 2. 理论实践相结合。
-#### 深度学习实验  
+#### 论文资料
+- activation.激活函数
+- Attention. 注意力机制
+- GANs
+- 深度森林
+- 声学模型
+#### 实验代码  
 - 情感分析  
 对中文电影评论进行情感分析  
 - 语音识别  
@@ -18,5 +24,5 @@
 - 一份不太简短的LATEX介绍
 - Hands-On+Machine+Learning+with+Scikit-Learn+and+TensorFlow
 ---  
-update:20190512
+update:20190513
 
