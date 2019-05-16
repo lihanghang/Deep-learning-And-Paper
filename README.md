@@ -8,6 +8,8 @@
 - GANs
 - 深度森林
 - 声学模型
+- 声纹识别
+- 语音合成
 #### 实验代码  
 - 情感分析  
 对中文电影评论进行情感分析  
@@ -24,5 +26,5 @@
 - 一份不太简短的LATEX介绍
 - Hands-On+Machine+Learning+with+Scikit-Learn+and+TensorFlow
 ---  
-update:20190513
+Update:20190516
 
