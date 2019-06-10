@@ -14,7 +14,7 @@
 | 5        | 元学习            |Meta-Learning|
 
 ### 主要开源工具
-序号	名称	简介	链接	主要特点	主要技术	备注
+|序号|	名称	|简介	|链接|	主要特点|	主要技术|	备注|
 | -------- | :----- | :----: |    :------ |:------ |:------ |:------ |
 |1|	Auto-Keras|	Auto-Keras是一个用于自动机器学习（AutoML）的开源软件库。它由Texas A＆M大学的DATA实验室和社区贡献者开发。|	https://autokeras.com/	Auto-Keras提供自动搜索深度学习模型的架构和超参数的功能。	|用神经架构搜索，但应用“网络态射”（在更改架构时保持网络功能）以及贝叶斯优化，以指导网络态射以实现更高效的神经网络搜索。|	德克萨斯州A&M大学数据实验室团队|
 |2|	Auto-sklearn|	是一个自动化机器学习的工具包,其基于sklearn编写。|	https://automl.github.io/auto-sklearn/master/#|	仅支持监督学习的分类和回归。框架可以自动进行数据预处理，特征预处理，（分类/回归）算法选择，最终可导出模型，存储并使用。 |	Bayesian Optimization/SMAC (sequential model-based algorithm configuration)等|	Frank Hutter 等|
@@ -22,7 +22,7 @@
 |4|	TransmogrifAI	是一个基于Scala和SparkML构建的Java开源库，用于处理结构化数据的端到端自动化机器学习库。|	https://transmogrif.ai/	|可以自动完成数据清理、特征工程和模型选择，然后训练出一个高性能模型，进行进一步探索和迭代。|	基于自动类型的特征工程/特征验证等|	Salesforce发布|
 
 ### 商业化平台
-序号	系统名称	类型	链接	主要功能	备注
+|序号|	系统名称	|类型|	链接	|主要功能|	备注|
 | -------- | -----:           | :----: |    :------ |
 |1|	Cloud AutoML	|商业	|https://cloud.google.com/automl/|	NLP/翻译/视觉/视频等。|	 Google 发布|
 |2|	PAI Studio|	商业	|https://help.aliyun.com/document_detail/114522.html?spm=a2c4g.11186623.6.565.29d819ceRPvkKG	|提供了从数据处理、模型训练、服务部署到预测的一站式服务，PAI Studio可视化建模作为其子产品。自动调参等。	|阿里云发布|
