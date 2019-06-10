@@ -19,7 +19,7 @@
 |1|	Auto-Keras|	Auto-Keras是一个用于自动机器学习（AutoML）的开源软件库。它由Texas A＆M大学的DATA实验室和社区贡献者开发。|	https://autokeras.com/	Auto-Keras提供自动搜索深度学习模型的架构和超参数的功能。	|用神经架构搜索，但应用“网络态射”（在更改架构时保持网络功能）以及贝叶斯优化，以指导网络态射以实现更高效的神经网络搜索。|	德克萨斯州A&M大学数据实验室团队|
 |2|	Auto-sklearn|	是一个自动化机器学习的工具包,其基于sklearn编写。|	https://automl.github.io/auto-sklearn/master/#|	仅支持监督学习的分类和回归。框架可以自动进行数据预处理，特征预处理，（分类/回归）算法选择，最终可导出模型，存储并使用。 |	Bayesian Optimization/SMAC (sequential model-based algorithm configuration)等|	Frank Hutter 等|
 |3|	NNI-v0.8|	NNI（神经网络智能）是一个帮助用户运行自动机器学习（AutoML）实验的工具包。该工具调度并运行由优化算法生成的试验作业，以在不同的环境(如本地机器、远程服务器和云)中搜索最佳的神经体系结构和/或超参数。|	https://github.com/Microsoft/nni	|支持私有部署/支持分布式调度/对超参搜索的底层支持|	Random Search/ Tree-structured Parzen Estimator (TPE) /Grid Search等|	微软发布|
-|4|	TransmogrifAI :------ |	是一个基于Scala和SparkML构建的Java开源库，用于处理结构化数据的端到端自动化机器学习库。|	https://transmogrif.ai/	|可以自动完成数据清理、特征工程和模型选择，然后训练出一个高性能模型，进行进一步探索和迭代。|	基于自动类型的特征工程/特征验证等|	Salesforce发布|
+|4|	TransmogrifAI |	是一个基于Scala和SparkML构建的Java开源库，用于处理结构化数据的端到端自动化机器学习库。|	https://transmogrif.ai/	|可以自动完成数据清理、特征工程和模型选择，然后训练出一个高性能模型，进行进一步探索和迭代。|	基于自动类型的特征工程/特征验证等|	Salesforce发布|
 
 ### 商业化平台
 |序号|	系统名称	|类型|	链接	|主要功能|	备注|
